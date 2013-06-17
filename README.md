@@ -1,4 +1,7 @@
-attr-repl
+CoffeeScript Particles, Repulsor and attractor
 =========
 
-Repulsor &amp; Attractor
+Particle System and repulsor &amp; attractor behavior
+made with CoffeeScript and canvas.
+
+[View Demo](http://mihailt.github.io/attr-repl/)
